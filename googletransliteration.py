@@ -1,2 +1,2 @@
-google.load("elements", "1", {packages: "transliterate"})
+google.load("language", "1");
 google.language.transliterate(["altalena"], "it", "ru")
