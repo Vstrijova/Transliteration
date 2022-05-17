@@ -1,2 +1,3 @@
 google-transliteration-api
-google.load
+
+Languages?api-version=3.0&scope={scope}
