@@ -1,3 +1,1 @@
 google-transliteration-api
-
-Languages?api-version=3.0&scope={scope}
