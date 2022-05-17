@@ -1,7 +1,7 @@
-<script type="text/javascript">
+script type="text/javascript"
   google.load("elements", "1", {
   packages: "transliterate"
-  });
+  })
 </script>
   function onLoad() {
         var options = {
