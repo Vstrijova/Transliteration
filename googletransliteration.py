@@ -1,2 +1,2 @@
-google.load("language", "1");
-google.language.transliterate(["altalena"], "it", "ru")
+from google.transliteration import transliterate_text
+result = transliterate_text('Lemon Tree', lang_code='hi')
