@@ -1,8 +1,7 @@
-script type="text/javascript"
+type="text/javascript"
   google.load("elements", "1", {
   packages: "transliterate"
   })
-</script>
   function onLoad() {
         var options = {
           sourceLanguage: 'it',
